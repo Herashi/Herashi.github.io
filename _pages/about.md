@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-~\
-
 
 My name is 史洁茹, you can all me Hera! 
 
