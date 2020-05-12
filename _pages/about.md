@@ -10,7 +10,7 @@ redirect_from:
 
 
 <p align="center">
-  <img width="360" height="300" src="https://raw.githubusercontent.com/Herashi/herashi.github.io/master/images/profile.png">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/Herashi/herashi.github.io/master/images/profile.png">
 </p>
 
 
