@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-#<p align="center">
-#  <img  src="https://raw.githubusercontent.com/Herashi/herashi.github.io/master/images/banner.png">
-#</p>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Herashi/herashi.github.io/master/images/banner.png">
+</p>
 
 
 
