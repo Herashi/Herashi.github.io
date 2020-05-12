@@ -9,11 +9,6 @@ redirect_from:
 ---
 
 
-#<p align="center">
-#  <img width="330" height="300" src="https://raw.githubusercontent.com/Herashi/herashi.github.io/master/images/profile.png">
-#</p>
-
-
 My name is 史洁茹, you can all me Hera! 
 
 
