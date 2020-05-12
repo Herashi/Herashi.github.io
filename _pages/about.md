@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is 史洁茹, you can all me Hera! 
 
-![Me graduating](/images/profile.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Herashi/herashi.github.io/tree/master/images/profile.png">
+</p>
+
+
+My name is 史洁茹, you can all me Hera! 
 
 
 I grew up in Shanxi Province, China, and I went to Sichuan Univeristy for undergrate majoring in Statistics. I am currently a PhD student in Biostatistics at the University of Michigan, where I also finished my master's degree. My primary research interest lies in causal inference, mHealth, machine learning, etc. 
