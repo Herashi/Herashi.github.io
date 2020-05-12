@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jieru Shi"
-  avatar           : 
+  avatar           :  "/images/mstile-144x144.png"
   bio              : "PhD student in Biostatistics, University of Michigan"
   location         : "Ann Arbor"
   employer         :
